@@ -13,7 +13,7 @@ public class Typecasting {
 		int b = 'b';
 		System.out.println("value = " + b);
 		
-		//-Explicit typecasting--------
+		//------------Explicit typecasting--------
 		
 		double x = 45.5;
 		float y = (float) x;
